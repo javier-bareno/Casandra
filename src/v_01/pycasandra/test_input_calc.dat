@@ -1,0 +1,17 @@
+Sputtering calculation input parameters:
+Atom	M	Z	R	U	Q	DEN	KAPA
+Ar	39.948	18.0	0.98	5.0	1.0	5.0	0.0002
+Si	28.0	14.0	2.0	4.63	2.33	0.75
+Discharge voltage (V): 100.0
+Discharge current (A): 1.1
+Gas pressure (Pa): 1.2
+Average energy of sputtered atom (eV): 10.0
+Gas temperature (K): 300.0
+Perform T correction?: No
+Erosion disk inner radius (mm): 20.0
+Erosion disk outer radius (mm): 30.0
+Target to substrate distance(mm): 150.0
+Calculated radius / outer erosion radius: 2.0
+Number of steps for radial integration at target: 20.0
+Number of steps for polar integration at target: 30.0
+mm between calculated data points: 2.0
